@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Ryan Johanides -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Contact</title>
+  </head>
+  <body>
+    <div class="grid-container no-sidebar">
+      <header>
+        <h1>Contact</h1>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html" aria-current="page">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <main>
+        <h2>Contact Me</h2>
+        <form class="survey-form">
+          <div class="form-group">
+            <label for="user-name">Full Name:</label>
+            <input
+              type="text"
+              id="user-name"
+              name="name"
+              placeholder="Enter your full name"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="user-email">Email Address:</label>
+            <input
+              type="email"
+              id="user-email"
+              name="email"
+              placeholder="Enter your email"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="user-message">Message:</label>
+            <textarea
+              id="user-message"
+              name="message"
+              placeholder="Type your message here"
+              required
+            ></textarea>
+          </div>
+          <div class="form-buttons">
+            <button type="submit">Submit</button>
+            <button type="reset">Start Over</button>
+          </div>
+        </form>
+      </main>
+
+      <footer>
+        <p>&copy; 2025 Ryan Johanides</p>
+      </footer>
+    </div>
+  </body>
+</html>

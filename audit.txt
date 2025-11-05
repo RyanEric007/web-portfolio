@@ -1,0 +1,31 @@
+Task 1: Design & Usability
+
+1). Is my navigation menu clear and easy to find on every page?
+    Yes.
+    • Home: Yeah, nav bar’s up top and easy to find.
+    • Projects: Same spot, works the same, consistent layout.
+    • Contact: Up top too, all links work and match style.
+
+2). Is there a clear visual hierarchy? (e.g., Are <h1> headings obviously more important than <h2> headings?)
+    Yes.
+    • Home: One main <h1>, then sections use <h2>.
+    • Projects: <h1> for page title, <h2> for gallery, clean layout.
+    • Contact: <h1> for title, form labels stand out below.
+
+3). Is the text easy to read? (Consider font size, line spacing, and color contrast).
+    Yes.
+    • Home: Easy to read, dark text on light bg.
+    • Projects: Font and spacing look good, easy on the eyes.
+    • Contact: Text and labels are clear, good contrast with white form.
+
+Task 2: Accessibility Check
+
+1). Do all <img> tags have appropriate alt text (or empty alt="" if decorative)?
+    Yes.
+    • Home: No imgs on main content, just text/table.
+    • Projects: All imgs have short alt text that fits what they show.
+    • Contact: No imgs on this page.
+
+2). On contact.html, are all <label> elements correctly associated with inputs/textarea using for/id?
+    Yes.
+    • Contact: Yeah, every label matches the right input or textarea.
