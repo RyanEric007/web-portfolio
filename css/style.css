@@ -18,15 +18,19 @@ a {
   text-decoration: none;
   transition: color 0.3s ease;
 }
+
 a:link {
   color: inherit;
 }
+
 a:visited {
   color: inherit;
 }
+
 a:hover {
   text-decoration: none;
 }
+
 a:active {
   opacity: 0.85;
 }
@@ -100,9 +104,11 @@ nav a {
   color: white;
   transition: color 0.3s ease;
 }
+
 nav a:hover {
   color: blue;
 }
+
 nav a[aria-current="page"] {
   font-weight: 600;
 }
@@ -164,6 +170,7 @@ input:required:invalid,
 textarea:required:invalid {
   border-color: crimson;
 }
+
 input:valid,
 textarea:valid {
   border-color: seagreen;
@@ -329,23 +336,27 @@ tbody tr:hover {
     background: none;
     color: #000;
   }
+
   header,
   nav,
   aside,
   footer {
     display: none !important;
   }
+
   .grid-container {
     grid-template-columns: 1fr !important;
     grid-template-areas: "main" !important;
     min-height: auto;
   }
+
   main {
     padding: 0;
     background: #fff;
     color: #000;
     box-shadow: none !important;
   }
+
   a {
     text-decoration: underline;
   }
