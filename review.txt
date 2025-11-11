@@ -1,0 +1,8 @@
+Task 3: Peer Review
+Classmate: Omar (https://omarduran1125.github.io/web-portfolio/)
+
+1). What is the single best or most impressive feature/design choice of this portfolio, and why do you like it?
+The best feature of Omar’s portfolio is the overall structure and consistency. The black header with white text gives it a clean, professional look, and the layout stays the same across all pages, which makes it easy to navigate. The hover overlay on the project cards is a nice touch and adds some visual interaction to the site.
+
+2). What is one constructive suggestion you have for a potential improvement? (Be polite and professional).
+A few small changes could make the portfolio even better. Adding real project images instead of placeholders would give the projects more personality and help visitors see his work. The table on the home page could use a hover highlight to make it feel more interactive, like how the projects react on hover. Lastly, it might help to unlock the textarea in the contact form so visitors can resize it if they need to type a longer message. These small adjustments would make the site feel more polished and user-friendly.
