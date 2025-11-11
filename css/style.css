@@ -329,6 +329,11 @@ tbody tr:hover {
   .project-card {
     max-width: none;
   }
+
+  table {
+    display: block;
+    overflow-x: auto;
+  }
 }
 
 @media print {
